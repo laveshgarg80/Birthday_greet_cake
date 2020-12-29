@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name" translatable="false">Birthday Greet</string>
+    <string name="enter_the_name" translatable="false">Enter the Name</string>
+    <string name="create_birthday_card" translatable="false">Create Birthday Card</string>
+    <string name="input_hint_text" translatable="false">Lavesh</string>
+</resources>
